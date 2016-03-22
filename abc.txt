@@ -3,3 +3,17 @@ hi this is for stash applying
 
 
 https://www.google.co.in/
+
+http://localhost:8080/job/GIT_01/3/console
+
+
+dsl plugin in jenkins
+
+
+
+7732055359
+
+
+
+
+https://github.com/krishnaprol/Helloworld_test.git
